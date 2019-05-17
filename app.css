@@ -1,0 +1,18 @@
+h1{
+	color: rgba(100,200,100,0.7);
+	/*
+	border-width: 10px;
+	border-color: red;
+	border-style: solid;*/
+	border: 2px solid rgb(200,100,48); 
+}
+h4{
+	background: rgb(200,100,48);
+}
+body{
+	background: pink;
+	/*
+	background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS79S-WJE6eYdI365uiClZClkxPnpJHDnNToumXkWIwAo7pbjipTQ);
+	background-repeat: no-repeat;
+	background-size: cover;*/
+}
